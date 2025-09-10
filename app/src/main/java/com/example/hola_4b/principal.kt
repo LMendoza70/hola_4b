@@ -19,6 +19,9 @@ fun main(){
 
     //ejemmplo de un commit*/
     val objeto= cls_mutableArrays()
-    objeto.Captura()
-    objeto.Imprimir()
+    val tiangulo= tda_Triangulo2(5F,4F,5F)
+    //objeto.Captura()
+    //objeto.Imprimir()
+    println("El area del triangulo es : ${tiangulo.area()}")
+
 }
