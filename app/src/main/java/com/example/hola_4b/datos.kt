@@ -36,4 +36,6 @@ class datos {
         res=num1+num2
         return  res;
     }
+
+    //ejemplo 3
 }

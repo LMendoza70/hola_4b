@@ -13,6 +13,7 @@ class arrays {
         //agregar elementos al arreglo
 
     }
+    //hola
 
     //c# for(int i=0;i>10;i++)
 
