@@ -8,6 +8,8 @@ class datos {
     * datos booleanos Boolean
     * datos Caracter Char
     * cadenas de texto String */
+
+
     fun ejemplo1(){
         //variables inmutables val "lo mismo que una cosntante en c#"
         //variables mutables var
