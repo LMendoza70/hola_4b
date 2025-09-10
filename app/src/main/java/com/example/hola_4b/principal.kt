@@ -1,7 +1,7 @@
 package com.example.hola_4b
 
 fun main(){
-    val dato:datos= datos();
+    /*val dato:datos= datos();
     val arreglo:arrays= arrays()
     var n1: Int
     var n2: Int
@@ -17,5 +17,8 @@ fun main(){
 */
     arreglo.ejemplo()
 
-    //ejemmplo de un commit
+    //ejemmplo de un commit*/
+    val objeto= cls_mutableArrays()
+    objeto.Captura()
+    objeto.Imprimir()
 }
